@@ -11,7 +11,7 @@
 
 **The Pain Point:** This manual process is slow, boring, and error-prone. If a product category is bleeding money, the client might not know for days because the reporting lag is too high.
 
-**My Solution:** I built **TrendSpotter**, a standalone desktop automation tool. A user simply selects a raw dataset, and seconds later, the system mathematically diagnoses profit leaks and generates a fully analyzed, executive-ready PDF report saved directly to their machine.
+**My Solution:** I built an **Insight Engine**, a standalone desktop automation tool. A user simply selects a raw dataset, and seconds later, the system mathematically diagnoses profit leaks and generates a fully analyzed, executive-ready PDF report saved directly to their machine.
 
 -----
 
