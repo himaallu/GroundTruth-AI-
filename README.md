@@ -31,7 +31,7 @@
 
 I challenged myself to build a tool that bridges the gap between **Hard Data Analysis** and **Generative AI Reasoning**, moving beyond simple scripts to a robust pipeline.
 
-### 🏗️ 1. The "Strict Context" Pipeline
+###  1. The "Strict Context" Pipeline
 
 Instead of asking the AI to "analyze the CSV" (which leads to hallucinations), I built a decoupled architecture:
 
@@ -39,7 +39,7 @@ Instead of asking the AI to "analyze the CSV" (which leads to hallucinations), I
   * **Step 2: The Context Injection:** These hard numbers are injected into a structured JSON payload.
   * **Step 3: The AI Analyst (Gemini):** The AI is strictly constrained to *only* explain the provided numbers, preventing it from inventing data.
 
-### 🛡️ 2. AI Guardrails & Prompt Engineering
+### 2. AI Guardrails & Prompt Engineering
 
 To ensure production-grade reliability, I implemented several techniques:
 
